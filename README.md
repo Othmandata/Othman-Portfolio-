@@ -1,2 +1,2 @@
-# Othman-Portfolio-
-Analytics Portfolio
+# Data Analytics Porjects
+## Excel Project - Customer Segmentation
