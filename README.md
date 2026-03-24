@@ -10,7 +10,7 @@
 
 * Clean and transform raw data into a structured format ready for analysis.
 
-### Segmentation Logic
+###  Segmentation Logic
 
 * Define customer groups based on age and income brackets.
 
