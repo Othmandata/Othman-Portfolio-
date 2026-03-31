@@ -16,7 +16,7 @@
 
 * Use conditional columns to categorize customers into meaningful segments.
 
-  ## 📊 KPIs in the Tutorial
+  ## 📊 KPIs in this Project:
   
  * Age Segmentation: Shows how customers are distributed across age brackets.
  * Income Segmentation:	Groups customers by income levels to identify purchasing power.
