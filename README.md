@@ -1,7 +1,7 @@
 # Data Analytics Porjects
 ## Excel Project - Customer Segmentation
 🔑 Key Insights
-*  In this project I've built a customer segmentation dashboard in Excel using Power Query, Pivot Tables, and design techniques. The key insights focus on cleaning raw data, segmenting customers, and creating an interactive dashboard with KPIs, charts, and slicers.
+*  In this project I've built a customer segmentation dashboard in Excel using Power Query and Pivot Tables (from generic customer dataset).
 ###  Data Preparation with Power Query 
 
 * Import customer data from CSV/text files.
