@@ -15,3 +15,11 @@
 * Define customer groups based on age and income brackets.
 
 * Use conditional columns to categorize customers into meaningful segments.
+
+  ## 📊 KPIs in the Tutorial
+  ## KPI	Purpose
+Age Segmentation	Shows how customers are distributed across age brackets.
+Income Segmentation	Groups customers by income levels to identify purchasing power.
+Loyalty Segmentation	Tracks customer loyalty tiers (e.g., Bronze, Silver, Gold).
+Tenure Segmentation	Measures how long customers have been with the company.
+
