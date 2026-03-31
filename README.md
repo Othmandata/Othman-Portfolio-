@@ -18,7 +18,7 @@
 
   ## 📊 KPIs in the Tutorial
   
- Age Segmentation: Shows how customers are distributed across age brackets.
+ ### Age Segmentation: Shows how customers are distributed across age brackets.
  Income Segmentation:	Groups customers by income levels to identify purchasing power.
  Loyalty Segmentation:	Tracks customer loyalty tiers (e.g., Bronze, Silver, Gold).
  Tenure Segmentation:	Measures how long customers have been with the company.
