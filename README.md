@@ -1,5 +1,5 @@
 # Data Analytics Porjects
-# [Excel Project 1 - Customer Segmentation](https://othmandata.github.io/Othman-Portfolio-/#excel-project---customer-segmentation)
+# [Customer Segmentation - Excel](https://othmandata.github.io/Othman-Portfolio-/#excel-project---customer-segmentation)
 🔑 Key Insights
 *  In this project I've built a customer segmentation dashboard in Excel using Power Query and Pivot Tables (from a generic customer dataset).
   
