@@ -9,4 +9,5 @@
  * Income Segmentation:	Groups customers by income levels to identify purchasing power.
  * Loyalty Segmentation:	Tracks customer loyalty tiers (e.g., Bronze, Silver, Gold).
  * Tenure Segmentation:	Measures how long customers have been with the company.
- # ![IMG1]([IMG1/Customerbygen.png](https://github.com/Othmandata/Othman-Portfolio-/blob/main/IMG1/Customer%20by%20Gen.png?raw=true))
+ # ![alt text]([image.jpg](https://github.com/Othmandata/Othman-Portfolio-/blob/515b73918c724f024fdf6fef975f28bf8d081af9/IMG1/Customer%20by%20Gen.png))
+ 
