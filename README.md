@@ -3,7 +3,7 @@
 🔑 Key Insights
 *  In this project I've built a customer segmentation dashboard in Excel using Power Query and Pivot Tables (from a generic customer dataset).
   
-  ## 📊 KPIs in this Project:
+  # 📊 KPIs in this Project:
   
  * Age Segmentation: Shows how customers are distributed across age brackets.
  * Income Segmentation:	Groups customers by income levels to identify purchasing power.
