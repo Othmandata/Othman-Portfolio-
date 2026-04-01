@@ -12,4 +12,4 @@
  
 ![alt text](https://github.com/Othmandata/Othman-Portfolio-/blob/9805da8a4af9156e59fa98fc1ce7fd50f9615446/IMG1/Customer%20by%20Gen.png)
 * Customer Loyalty
-![alt text](https://github.com/Othmandata/Othman-Portfolio-/blob/315d2f439c31a3e00f129e5f3818260bcd78afda/IMG1/customerloyalty.jpg)
+![alt text](https://github.com/Othmandata/Othman-Portfolio-/blob/280e82684bc72e9bf170692647b3de60085acde6/IMG1/Hello.jpg)
