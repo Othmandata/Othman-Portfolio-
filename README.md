@@ -10,6 +10,6 @@
  * Loyalty Segmentation:	Tracks customer loyalty tiers (e.g., Bronze, Silver, Gold).
  * Tenure Segmentation:	Measures how long customers have been with the company.
  
-![alt text](https://github.com/Othmandata/Othman-Portfolio-/blob/9805da8a4af9156e59fa98fc1ce7fd50f9615446./IMG1/Customer%20by%20Gen.png)
+![alt text](https://github.com/Othmandata/Othman-Portfolio-/blob/9805da8a4af9156e59fa98fc1ce7fd50f9615446/IMG1./Customer%20by%20Gen.png)
 * Customer Loyalty
 ![alt text](https://github.com/Othmandata/Othman-Portfolio-/blob/280e82684bc72e9bf170692647b3de60085acde6/IMG1/Hello.jpg)
